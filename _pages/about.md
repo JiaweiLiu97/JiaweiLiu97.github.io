@@ -19,15 +19,15 @@ redirect_from:
 
 Jiawei Liu (刘嘉威) is a third-year Ph.D. candidate at School of Artificial Intelligence, Jilin University, advised by Prof. Xun Gong. He received his M.S. degree (June 2022) and B.S. degree (June 2019) from Jilin University.
 
-His research interests include Human-Center Autonomous Driving, Industrial Anomaly Detection.
+His research interests include **Human-Center Autonomous Driving**, Industrial Anomaly Detection.
 
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by *Energy* (CAS Zone 1 Journals).
-- *2025.04*: &nbsp;🎉🎉 One paper is accepted by *NAACL* (CCF-B Recommended Conferences).
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted by *Computer Vision and Image Understanding* (CCF-B Recommended Journals).
-- *2021.10*: &nbsp;🎉🎉 One paper is accepted by *China Automation Congress* (CAA-A Recommended Conferences).
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by Journal *Energy* (JCR Q1; CAS Zone 1).
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by Conference *NAACL* (CCF-B Recommended Conference).
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by Journal *Computer Vision and Image Understanding* (JCR Q1; CCF-B Recommended Journal).
+- *2021.10*: &nbsp;🎉🎉 One paper is accepted by Conference *China Automation Congress* (CAA-A Recommended Conference).
 
 
 
