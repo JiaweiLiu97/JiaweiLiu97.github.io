@@ -39,9 +39,7 @@ His research interests include **Human-Center Autonomous Driving**, Industrial A
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/NAACL_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[*Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language Models for Vehicle Trajectory Prediction*](https://aclanthology.org/2025.naacl-long.223.pdf), 2025. (CCF-B Conference)
-
-**J. Liu**, Y. Liu, X. Gong, T. Wang, H. Chen, and Y. Hu, 2025.
+**J. Liu**, Y. Liu, X. Gong, T. Wang, H. Chen, and Y. Hu, [*Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language Models for Vehicle Trajectory Prediction*](https://aclanthology.org/2025.naacl-long.223.pdf), NAACL, 2025. (CCF-B Conference)
 
 - An LLM-based trajectory prediction framework that tests frozen, off-the-shelf LLMs’ ability to extrapolate multi-agent traffic dynamics.
 </div>
