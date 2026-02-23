@@ -43,7 +43,7 @@ His research interests include **Human-Center Autonomous Driving**, Industrial A
 
 **J. Liu**, Y. Liu, X. Gong, T. Wang, H. Chen, and Y. Hu, 2025.
 
-- We present an LLM-based trajectory prediction framework that tests frozen, off-the-shelf LLMs’ ability to extrapolate multi-agent traffic dynamics. A traffic encoder summarizes observed trajectories into scene features, which are mapped to LLM tokens and decoded into future trajectories. Results show competitive accuracy and stronger qualitative understanding in complex scenarios.
+- An LLM-based trajectory prediction framework that tests frozen, off-the-shelf LLMs’ ability to extrapolate multi-agent traffic dynamics.
 </div>
 </div>
 
