@@ -26,7 +26,7 @@ His research interests include **Human-Center Autonomous Driving**, Industrial A
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by Conference *CVPR* (CCF-A).
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by Conference *IEEE Intelligent Vehicles Symposium* (CAA-B).
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by Journal *Energy* (JCR Q1; CAS Zone 1).
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by Journal *Energy* (JCR Q1).
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by Conference *NAACL* (CCF-B).
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by Journal *Computer Vision and Image Understanding* (JCR Q1; CCF-B).
 - *2021.10*: &nbsp;🎉🎉 One paper is accepted by Conference *China Automation Congress* (CAA-A).
@@ -36,18 +36,19 @@ His research interests include **Human-Center Autonomous Driving**, Industrial A
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/NAACL_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy</div><img src='images/Energy_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**J. Liu**, Y. Liu, X. Gong, T. Wang, H. Chen, and Y. Hu, [*Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language Models for Vehicle Trajectory Prediction*](https://aclanthology.org/2025.naacl-long.223.pdf), NAACL, 2025. (CCF-B Conference)
+**J. Liu**, Y. Li, N. Wang, Y. Sun, T. Wang, Y. Hu, and X. Gong, "*Cloud-Assisted High-Sulfur Fuel Monitoring for Connected Heavy-Duty Vehicles based on Transformer Neural Network,*". Energy, 2025. (JCR Q1)
 
-- An LLM-based trajectory prediction framework that tests frozen, off-the-shelf LLMs’ ability to extrapolate multi-agent traffic dynamics.
+- We analyze early high-sulfur diesel impacts on HDV after-treatment and introduce HS-FuelFormer, a cloud-assisted transformer that uses connected sensors for interpretable, robust real-time detection.
+.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/NAACL_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**J. Liu**, Y. Liu, X. Gong, T. Wang, H. Chen, and Y. Hu, [*Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language Models for Vehicle Trajectory Prediction*](https://aclanthology.org/2025.naacl-long.223.pdf), NAACL, 2025. (CCF-B Conference)
+**J. Liu**, Y. Liu, X. Gong, T. Wang, H. Chen, and Y. Hu, "*Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language Models for Vehicle Trajectory Prediction*", NAACL, 2025. (CCF-B Conference)
 - An LLM-based trajectory prediction framework that tests frozen, off-the-shelf LLMs’ ability to extrapolate multi-agent traffic dynamics.
 </div>
 </div>
