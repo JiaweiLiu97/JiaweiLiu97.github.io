@@ -75,7 +75,7 @@ His research interests include **Human-Centered Autonomous Driving**, **Industri
 
 
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Projects
 - *2024.06:* ***Project Leader***, "*Research on Vehicle Trajectory Prediction Based on Multimodal Large Models in Intelligent Connected Transportation Scenarios*", Jilin Provincial Department of Education, JJKH20250236BS.
 - *2024.03:* ***Project key participant***, "*Capacity-Building Program to Strengthen Independent Innovation in Automotive Foundation Models*", Jilin Provincial D&R Commission, 2024C003.
 - *2022.06:* ***Project key participant***, “*Study on an Online Identification Method for High-Sulfur Fuel in Commercial Vehicles Based on Connected-Vehicle Big Data,*” FAW D&R Institute.
@@ -87,10 +87,3 @@ His research interests include **Human-Centered Autonomous Driving**, **Industri
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
