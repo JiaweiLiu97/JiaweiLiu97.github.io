@@ -34,21 +34,22 @@ His research interests include **Human-Center Autonomous Driving**, Industrial A
 
 # 📝 Publications 
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/NAACL_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[*Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language Models for Vehicle Trajectory Prediction*](https://aclanthology.org/2025.naacl-long.223.pdf), 2025 (CCF-B Conference)
+  
+[*Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language Models for Vehicle Trajectory Prediction*](https://aclanthology.org/2025.naacl-long.223.pdf), 2025. (CCF-B Conference)
 
 **J. Liu**, Y. Liu, X. Gong, T. Wang, H. Chen, and Y. Hu, 2025.
 
-- Emergent abilities of large language models (LLMs) are opening new avenues in autonomous vehicle research, but safe deployment requires a strong grasp of dynamic traffic scenes. We propose a trajectory-prediction framework that probes LLMs’ built-in extrapolation ability to model how traffic agents evolve and interact over time. A traffic encoder compresses observed trajectories into scene features, which are reprogrammed into LLM-compatible tokens and decoded into future trajectories. Experiments show that off-the-shelf, frozen LLMs achieve competitive prediction accuracy, while qualitative results indicate improved reasoning in complex multi-agent scenarios.
-
+- We present an LLM-based trajectory prediction framework that tests frozen, off-the-shelf LLMs’ ability to extrapolate multi-agent traffic dynamics. A traffic encoder summarizes observed trajectories into scene features, which are mapped to LLM tokens and decoded into future trajectories. Results show competitive accuracy and stronger qualitative understanding in complex scenarios.
 </div>
 </div>
 
-
+- **J. Liu**, X. Gong, T. Wang, Y. Hu, and H. Chen, "A Proxy-Data-Based Hierarchical Adversarial Patch Generation Method,*", Computer Vision and Image Understanding, 2024. (JCR Q1; CCF-B)
 - Z. Jiang, **J. Liu**, X. Gong, and Y. Yin, "*An Adversarial Attack Considering Effectiveness and Concealment on Faster R-CNN,*", Asia Pacific Information Technology Conference, 2023.
-- **J. Liu**, Y. Wang, Y. Yin, Y. Hu, H. Chen, and X. Gong, "*Adversarial Attacks on Faster R-CNN: Design and Ablation Study*," China Automation Congress, 2021. (CAA-A Conference)
+- **J. Liu**, Y. Wang, Y. Yin, Y. Hu, H. Chen, and X. Gong, "*Adversarial Attacks on Faster R-CNN: Design and Ablation Study,*" China Automation Congress, 2021. (CAA-A Conference)
 
 
 
