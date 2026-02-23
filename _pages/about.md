@@ -23,6 +23,13 @@ His research interests include **Human-Center Autonomous Driving**, **Industrial
 
 
 
+
+
+
+
+
+
+
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by Conference *IEEE Intelligent Vehicles Symposium* (CAA-B).
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by Journal *Energy* (JCR Q1).
@@ -31,10 +38,15 @@ His research interests include **Human-Center Autonomous Driving**, **Industrial
 - *2021.10*: &nbsp;🎉🎉 One paper is accepted by Conference *China Automation Congress* (CAA-A).
 
 
+
+
+
+
+
+
+
+
 # 📝 Publications 
-
-
-
 - \[6\] Y. Liu, **J. Liu**, X. Gong, and Z. Nie, "*Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction,*", IEEE Intelligent Vehicles Symposium, 2026. (CAA-A)
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy</div><img src='images/Energy_2025.png' alt="sym" width="100%"></div></div>
@@ -57,9 +69,22 @@ His research interests include **Human-Center Autonomous Driving**, **Industrial
 
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
+
+
+
+# 🎖 Honors, Awards and Projects
+- *2024.06* Project Leader, "*Research on Vehicle Trajectory Prediction Based on Multimodal Large Models in Intelligent Connected Transportation Scenarios*", Jilin Provincial Department of Education, JJKH20250236BS.
+- *2024.03* Project key participant, "*Capacity-Building Program to Strengthen Independent Innovation in Automotive Foundation Models*", Jilin Provincial D&R Commission, 2024C003.
+- *2022.06* Project key participant, “*Study on an Online Identification Method for High-Sulfur Fuel in Commercial Vehicles Based on Connected-Vehicle Big Data,*” FAW D&R Institute.
+
+
+
+
+
+
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
