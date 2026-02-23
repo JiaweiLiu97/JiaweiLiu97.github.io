@@ -31,11 +31,11 @@ His research interests include **Human-Centered Autonomous Driving**, **Industri
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper is accepted by Conference *IEEE Intelligent Vehicles Symposium* (CAA-B).
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by Journal *Energy* (JCR Q1).
-- *2025.04*: &nbsp;🎉🎉 One paper is accepted by Conference *NAACL* (CCF-B).
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted by Journal *Computer Vision and Image Understanding* (JCR Q1; CCF-B).
-- *2021.10*: &nbsp;🎉🎉 One paper is accepted by Conference *China Automation Congress* (CAA-A).
+- *2026.01*: &nbsp;🎉🎉 One paper (first author) is accepted by Conference *IEEE Intelligent Vehicles Symposium* (CAA-B).
+- *2025.08*: &nbsp;🎉🎉 One paper (first author) is accepted by Journal *Energy* (JCR Q1).
+- *2025.04*: &nbsp;🎉🎉 One paper (first author) is accepted by Conference *NAACL* (CCF-B).
+- *2024.09*: &nbsp;🎉🎉 One paper (first author) is accepted by Journal *Computer Vision and Image Understanding* (JCR Q1; CCF-B).
+- *2021.10*: &nbsp;🎉🎉 One paper (first author) is accepted by Conference *China Automation Congress* (CAA-A).
 
 
 
