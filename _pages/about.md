@@ -74,7 +74,7 @@ His research interests include **Human-Center Autonomous Driving**, **Industrial
 
 
 
-# 🎖 Honors, Awards and Projects
+# 🎖 Honors and Awards
 - *2024.06* Project Leader, "*Research on Vehicle Trajectory Prediction Based on Multimodal Large Models in Intelligent Connected Transportation Scenarios*", Jilin Provincial Department of Education, JJKH20250236BS.
 - *2024.03* Project key participant, "*Capacity-Building Program to Strengthen Independent Innovation in Automotive Foundation Models*", Jilin Provincial D&R Commission, 2024C003.
 - *2022.06* Project key participant, “*Study on an Online Identification Method for High-Sulfur Fuel in Commercial Vehicles Based on Connected-Vehicle Big Data,*” FAW D&R Institute.
