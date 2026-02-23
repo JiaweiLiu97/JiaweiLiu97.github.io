@@ -24,7 +24,6 @@ His research interests include **Human-Center Autonomous Driving**, Industrial A
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 One paper is accepted by Conference *CVPR* (CCF-A).
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by Conference *IEEE Intelligent Vehicles Symposium* (CAA-B).
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by Journal *Energy* (JCR Q1).
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by Conference *NAACL* (CCF-B).
@@ -36,13 +35,12 @@ His research interests include **Human-Center Autonomous Driving**, Industrial A
 
 
 
+- Y. Liu, **J. Liu**, X. Gong, and Z. Nie, "*Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction,*", IEEE Intelligent Vehicles Symposium, 2026. (CAA-A)
+  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy</div><img src='images/Energy_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
 **J. Liu**, Y. Li, N. Wang, Y. Sun, T. Wang, Y. Hu, and X. Gong, "*Cloud-Assisted High-Sulfur Fuel Monitoring for Connected Heavy-Duty Vehicles based on Transformer Neural Network,*". Energy, 2025. (JCR Q1)
-
 - We analyze early high-sulfur diesel impacts on HDV after-treatment and introduce HS-FuelFormer, a cloud-assisted transformer that uses connected sensors for interpretable, robust real-time detection.
-.
 </div>
 </div>
 
@@ -54,8 +52,8 @@ His research interests include **Human-Center Autonomous Driving**, Industrial A
 </div>
 
 - **J. Liu**, X. Gong, T. Wang, Y. Hu, and H. Chen, "A Proxy-Data-Based Hierarchical Adversarial Patch Generation Method,*", Computer Vision and Image Understanding, 2024. (JCR Q1; CCF-B)
-- Z. Jiang, **J. Liu**, X. Gong, and Y. Yin, "*An Adversarial Attack Considering Effectiveness and Concealment on Faster R-CNN,*", Asia Pacific Information Technology Conference, 2023.
-- **J. Liu**, Y. Wang, Y. Yin, Y. Hu, H. Chen, and X. Gong, "*Adversarial Attacks on Faster R-CNN: Design and Ablation Study,*" China Automation Congress, 2021. (CAA-A Conference)
+- \[2\] Z. Jiang, **J. Liu**, X. Gong, and Y. Yin, "*An Adversarial Attack Considering Effectiveness and Concealment on Faster R-CNN,*", Asia Pacific Information Technology Conference, 2023.
+- \[1\] **J. Liu**, Y. Wang, Y. Yin, Y. Hu, H. Chen, and X. Gong, "*Adversarial Attacks on Faster R-CNN: Design and Ablation Study,*" China Automation Congress, 2021. (CAA-A)
 
 
 
