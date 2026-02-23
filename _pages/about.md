@@ -46,7 +46,12 @@ His research interests include **Human-Center Autonomous Driving**, Industrial A
 </div>
 </div>
 
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- 
+- **J. Liu**, Y. Wang, Y. Yin, Y. Hu, H. Chen, and X. Gong, "Adversarial Attacks on Faster R-CNN: Design and Ablation Study,", China Automation Congress, 2021. (CAA-A Conference)
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
