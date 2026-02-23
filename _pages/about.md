@@ -34,22 +34,21 @@ His research interests include **Human-Center Autonomous Driving**, Industrial A
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/NAACL_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[*Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language Models for Vehicle Trajectory Prediction*](https://aclanthology.org/2025.naacl-long.223.pdf), 2025(CCF-B Conference)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**J. Liu**, Y. Liu, X. Gong, T. Wang, H. Chen, and Y. Hu, 2025.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Emergent abilities of large language models (LLMs) have significantly advanced their application in autonomous vehicle (AV) research. Safe integration of LLMs into vehicles, however, necessitates their thorough understanding of dynamic traffic environments. Towards this end, this study introduces a framework leveraging LLMs’ built-in extrapolation capabilities for vehicle trajectory prediction, thereby
+evaluating their comprehension of the evolution of traffic agents’ behaviors and interactions over time. The framework employs a traffic encoder to extract spatial-level scene features from agents’ observed trajectories to facilitate efficient scene representation. To focus on LLM’s innate capabilities, scene features are then converted into LLM-compatible tokens through a reprogramming adapter and finally decoded into predicted trajectories with a linear decoder. Experimental results quantitatively demonstrate the framework’s efficacy in enabling off-the-shelf, frozen LLMs to achieve competitive trajectory prediction performance, with qualitative analyses revealing their enhanced understanding of complex, multi-agent traffic scenarios.. 
 </div>
 </div>
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- 
-- **J. Liu**, Y. Wang, Y. Yin, Y. Hu, H. Chen, and X. Gong, "Adversarial Attacks on Faster R-CNN: Design and Ablation Study,", China Automation Congress, 2021. (CAA-A Conference)
+- Z. Jiang, **J. Liu**, X. Gong, and Y. Yin, "*An Adversarial Attack Considering Effectiveness and Concealment on Faster R-CNN,*", Asia Pacific Information Technology Conference, 2023.
+- **J. Liu**, Y. Wang, Y. Yin, Y. Hu, H. Chen, and X. Gong, "*Adversarial Attacks on Faster R-CNN: Design and Ablation Study*," China Automation Congress, 2021. (CAA-A Conference)
 
 
 
