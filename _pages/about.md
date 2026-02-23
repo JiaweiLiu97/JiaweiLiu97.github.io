@@ -23,13 +23,13 @@ His research interests include Human-Center Autonomous Driving, Industrial Anoma
 
 
 
-
-
-
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by *Computer Vision and Image Understanding* (CCF-B Recommended Journals).
+- *2021.10*: &nbsp;🎉🎉 One paper is accepted by *2021 China Automation Congress* (CAA-A Recommended Conferences).
+
+
+Liu, J., Wang, Y., Yin, Y., Hu, Y., Chen, H. and Gong, X., 2021, October. Adversarial Attacks on Faster R-CNN: Design and Ablation Study. In 2021 China Automation Congress (CAC) (pp. 7395-7400). IEEE.
+
 
 # 📝 Publications 
 
