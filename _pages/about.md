@@ -49,7 +49,7 @@ His research interests include **Human-Centered Autonomous Driving**, **Industri
 
 # 📝 Publications 
 
-- \[6\] Y. Liu, ***J. Liu***, X. Gong, and Z. Nie, "*Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction,*", IEEE Intelligent Vehicles Symposium, 2026. (CAA-A)
+- \[6\] Y. Liu, ***J. Liu***, X. Gong, and Z. Nie, "*Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction,*", IEEE Intelligent Vehicles Symposium, 2026. (CAA-B)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy</div><img src='images/Energy_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [5] ***J. Liu***, Y. Li, N. Wang, Y. Sun, T. Wang, Y. Hu, and X. Gong, "*Cloud-Assisted High-Sulfur Fuel Monitoring for Connected Heavy-Duty Vehicles based on Transformer Neural Network,*". Energy, 2025. (JCR Q1)
