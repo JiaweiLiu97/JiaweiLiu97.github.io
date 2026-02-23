@@ -47,25 +47,25 @@ His research interests include **Human-Centered Autonomous Driving**, **Industri
 
 
 # 📝 Publications 
-- \[6\] Y. Liu, **J. Liu**, X. Gong, and Z. Nie, "*Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction,*", IEEE Intelligent Vehicles Symposium, 2026. (CAA-A)
+- \[6\] Y. Liu, ***J. Liu***, X. Gong, and Z. Nie, "*Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction,*", IEEE Intelligent Vehicles Symposium, 2026. (CAA-A)
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy</div><img src='images/Energy_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[5] **J. Liu**, Y. Li, N. Wang, Y. Sun, T. Wang, Y. Hu, and X. Gong, "*Cloud-Assisted High-Sulfur Fuel Monitoring for Connected Heavy-Duty Vehicles based on Transformer Neural Network,*". Energy, 2025. (JCR Q1)
+[5] ***J. Liu***, Y. Li, N. Wang, Y. Sun, T. Wang, Y. Hu, and X. Gong, "*Cloud-Assisted High-Sulfur Fuel Monitoring for Connected Heavy-Duty Vehicles based on Transformer Neural Network,*". Energy, 2025. (JCR Q1)
 - We analyze early high-sulfur diesel impacts on HDV after-treatment and introduce HS-FuelFormer, a cloud-assisted transformer that uses connected sensors for interpretable, robust real-time detection.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/NAACL_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[4] **J. Liu**, Y. Liu, X. Gong, T. Wang, H. Chen, and Y. Hu, "*Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language Models for Vehicle Trajectory Prediction*", NAACL, 2025. (CCF-B)
+[4] ***J. Liu***, Y. Liu, X. Gong, T. Wang, H. Chen, and Y. Hu, "*Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language Models for Vehicle Trajectory Prediction*", NAACL, 2025. (CCF-B)
 - An LLM-based trajectory prediction framework that tests frozen, off-the-shelf LLMs’ ability to extrapolate multi-agent traffic dynamics.
 </div>
 </div>
 
-- \[3\] **J. Liu**, X. Gong, T. Wang, Y. Hu, and H. Chen, "A Proxy-Data-Based Hierarchical Adversarial Patch Generation Method,*", Computer Vision and Image Understanding, 2024. (JCR Q1; CCF-B)
-- \[2\] Z. Jiang, **J. Liu**, X. Gong, and Y. Yin, "*An Adversarial Attack Considering Effectiveness and Concealment on Faster R-CNN,*", Asia Pacific Information Technology Conference, 2023.
-- \[1\] **J. Liu**, Y. Wang, Y. Yin, Y. Hu, H. Chen, and X. Gong, "*Adversarial Attacks on Faster R-CNN: Design and Ablation Study,*" China Automation Congress, 2021. (CAA-A)
+- \[3\] ***J. Liu***, X. Gong, T. Wang, Y. Hu, and H. Chen, "A Proxy-Data-Based Hierarchical Adversarial Patch Generation Method,*", Computer Vision and Image Understanding, 2024. (JCR Q1; CCF-B)
+- \[2\] Z. Jiang, ***J. Liu***, X. Gong, and Y. Yin, "*An Adversarial Attack Considering Effectiveness and Concealment on Faster R-CNN,*", Asia Pacific Information Technology Conference, 2023.
+- \[1\] ***J. Liu***, Y. Wang, Y. Yin, Y. Hu, H. Chen, and X. Gong, "*Adversarial Attacks on Faster R-CNN: Design and Ablation Study,*" China Automation Congress, 2021. (CAA-A)
 
 
 
@@ -75,13 +75,9 @@ His research interests include **Human-Centered Autonomous Driving**, **Industri
 
 
 # 🎖 Honors and Awards
-- *2024.06* Project Leader, "*Research on Vehicle Trajectory Prediction Based on Multimodal Large Models in Intelligent Connected Transportation Scenarios*", Jilin Provincial Department of Education, JJKH20250236BS.
-- *2024.03* Project key participant, "*Capacity-Building Program to Strengthen Independent Innovation in Automotive Foundation Models*", Jilin Provincial D&R Commission, 2024C003.
-- *2022.06* Project key participant, “*Study on an Online Identification Method for High-Sulfur Fuel in Commercial Vehicles Based on Connected-Vehicle Big Data,*” FAW D&R Institute.
-
-
-
-
+- *2024.06:* ***Project Leader***, "*Research on Vehicle Trajectory Prediction Based on Multimodal Large Models in Intelligent Connected Transportation Scenarios*", Jilin Provincial Department of Education, JJKH20250236BS.
+- *2024.03:* ***Project key participant***, "*Capacity-Building Program to Strengthen Independent Innovation in Automotive Foundation Models*", Jilin Provincial D&R Commission, 2024C003.
+- *2022.06:* ***Project key participant***, “*Study on an Online Identification Method for High-Sulfur Fuel in Commercial Vehicles Based on Connected-Vehicle Big Data,*” FAW D&R Institute.
 
 
 
@@ -89,6 +85,7 @@ His research interests include **Human-Centered Autonomous Driving**, **Industri
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
