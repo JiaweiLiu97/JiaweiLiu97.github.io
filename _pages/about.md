@@ -19,7 +19,7 @@ redirect_from:
 
 Jiawei Liu (刘嘉威) is a third-year Ph.D. candidate at School of Artificial Intelligence, Jilin University, advised by Prof. Xun Gong. He received his M.S. degree (June 2022) and B.S. degree (June 2019) from Jilin University.
 
-His research interests include **Human-Center Autonomous Driving**, Industrial Anomaly Detection.
+His research interests include **Human-Center Autonomous Driving**, **Industrial Anomaly Detection**.
 
 
 
@@ -46,7 +46,7 @@ His research interests include **Human-Center Autonomous Driving**, Industrial A
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/NAACL_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[4] **J. Liu**, Y. Liu, X. Gong, T. Wang, H. Chen, and Y. Hu, "*Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language Models for Vehicle Trajectory Prediction*", NAACL, 2025. (CCF-B Conference)
+[4] **J. Liu**, Y. Liu, X. Gong, T. Wang, H. Chen, and Y. Hu, "*Harnessing and Evaluating the Intrinsic Extrapolation Ability of Large Language Models for Vehicle Trajectory Prediction*", NAACL, 2025. (CCF-B)
 - An LLM-based trajectory prediction framework that tests frozen, off-the-shelf LLMs’ ability to extrapolate multi-agent traffic dynamics.
 </div>
 </div>
