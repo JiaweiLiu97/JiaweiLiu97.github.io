@@ -84,7 +84,9 @@ His research interests include **Human-Centered Autonomous Driving**, **Industri
 
 
 # 📖 Experiences
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2019.09 - 2022.06*, M.S., School of Materials Forming and Control Engineering, Jilin University.
+- *2025.09 - 2026.09*, Intern, Agency for Science, Technology and Research (ASTAR), Singapore.
+- *2023.06 - now*, Ph.D., School of Artificial Intelligence, Jilin University.
+- *2022.09 - 2023.06*, Research Assistant, School of Artificial Intelligence, Jilin University.
+- *2019.09 - 2022.06*, M.S., School of Artificial Intelligence, Jilin University.
 - *2015.09 - 2019.06*, B.S., School of Materials Forming and Control Engineering, Jilin University.
 
