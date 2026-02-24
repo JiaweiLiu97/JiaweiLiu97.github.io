@@ -86,7 +86,7 @@ His research interests include **Human-Centered Autonomous Driving**, **Vehicula
 
 
 # 📖 Experiences
-- *2025.09 - 2026.09*, Intern, Agency for Science, Technology and Research (ASTAR), Singapore.
+- *2025.09 - now*, Intern, Agency for Science, Technology and Research (ASTAR), Singapore.
 - *2023.06 - now*, Ph.D., School of Artificial Intelligence, Jilin University.
 - *2022.09 - 2023.06*, Research Assistant, School of Artificial Intelligence, Jilin University.
 - *2019.09 - 2022.06*, M.S., School of Artificial Intelligence, Jilin University.
