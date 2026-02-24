@@ -64,7 +64,7 @@ His research interests include **Human-Centered Autonomous Driving**, **Industri
 </div>
 </div>
 
-- \[3\] ***J. Liu***, X. Gong, T. Wang, Y. Hu, and H. Chen, "A Proxy-Data-Based Hierarchical Adversarial Patch Generation Method,*", Computer Vision and Image Understanding, 2024. (JCR Q1; CCF-B)
+- \[3\] ***J. Liu***, X. Gong, T. Wang, Y. Hu, and H. Chen, "*A Proxy-Data-Based Hierarchical Adversarial Patch Generation Method,*", Computer Vision and Image Understanding, 2024. (JCR Q1; CCF-B)
 - \[2\] Z. Jiang, ***J. Liu***, X. Gong, and Y. Yin, "*An Adversarial Attack Considering Effectiveness and Concealment on Faster R-CNN,*", Asia Pacific Information Technology Conference, 2023.
 - \[1\] ***J. Liu***, Y. Wang, Y. Yin, Y. Hu, H. Chen, and X. Gong, "*Adversarial Attacks on Faster R-CNN: Design and Ablation Study,*" China Automation Congress, 2021. (CAA-A)
 
@@ -83,7 +83,8 @@ His research interests include **Human-Centered Autonomous Driving**, **Industri
 
 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Experiences
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2019.09 - 2022.06*, M.S., School of Materials Forming and Control Engineering, Jilin University.
+- *2015.09 - 2019.06*, B.S., School of Materials Forming and Control Engineering, Jilin University.
 
