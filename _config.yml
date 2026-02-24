@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiawei Liu"
+title                    : "Jiawei Liu (刘嘉威)"
 description              : "Ph.D. Candidate at the School of Artificial Intelligence, Jilin University"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
